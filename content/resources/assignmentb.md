@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The resource contains assignment on grammar.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fbe304e84e17591742381227a8dc8137_AssignmentB.pdf
+file: /media/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fbe304e84e17591742381227a8dc8137_AssignmentB.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: AssignmentB.pdf
 uid: fbe304e8-4e17-5917-4238-1227a8dc8137

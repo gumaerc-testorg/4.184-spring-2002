@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Stages of shape grammar development [Lecture slides]
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/94b7e1a4fce10c921de677700dc56876_fixlecture2slides_final.pdf
+file: /media/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/94b7e1a4fce10c921de677700dc56876_fixlecture2slides_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: fixlecture2slides_final.pdf
 uid: 94b7e1a4-fce1-0c92-1de6-77700dc56876
