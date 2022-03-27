@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: a1a7ab55-2193-29d0-9a7d-0bfea6e47ea6
 resourcetype: Document
 title: mitmyushaper2d.pdf
 uid: 89249725-6725-7b61-797c-1a8187afc158

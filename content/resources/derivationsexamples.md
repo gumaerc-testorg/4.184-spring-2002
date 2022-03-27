@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fd8bdfe6-41b9-6841-388b-5be12a75e1ce
 resourcetype: Document
 title: derivationsexamples.pdf
 uid: 64b34d35-9461-278e-c367-181f930075fe

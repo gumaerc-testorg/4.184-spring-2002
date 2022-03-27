@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 41801303-15ad-c6e1-c585-a61fbe10a10a
 resourcetype: Document
 title: designprob.pdf
 uid: a291355d-c42c-1d93-ff32-ce1bcd356d99

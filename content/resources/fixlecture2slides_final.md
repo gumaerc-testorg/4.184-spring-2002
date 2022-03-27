@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 76c17318-d46a-a9aa-c288-600270377b21
 resourcetype: Document
 title: fixlecture2slides_final.pdf
 uid: 94b7e1a4-fce1-0c92-1de6-77700dc56876

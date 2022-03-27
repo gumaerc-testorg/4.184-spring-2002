@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fd8bdfe6-41b9-6841-388b-5be12a75e1ce
 resourcetype: Document
 title: autogrammar2.pdf
 uid: 4d7f1d17-797e-cc45-bf86-72253426d0f6

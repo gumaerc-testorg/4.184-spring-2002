@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 41801303-15ad-c6e1-c585-a61fbe10a10a
 resourcetype: Document
 title: pinup1_directions.pdf
 uid: 7ef2ee54-4303-3619-a5fb-b2bba67735bc

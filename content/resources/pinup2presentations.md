@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 41801303-15ad-c6e1-c585-a61fbe10a10a
 resourcetype: Document
 title: pinup2presentations.pdf
 uid: f163515a-d305-77fa-1a26-049dd4d5f782

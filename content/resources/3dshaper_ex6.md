@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fd8bdfe6-41b9-6841-388b-5be12a75e1ce
 resourcetype: Document
 title: 3dshaper_ex6.pdf
 uid: dd16449e-0ead-5b6c-2551-d1ce28f9027b
