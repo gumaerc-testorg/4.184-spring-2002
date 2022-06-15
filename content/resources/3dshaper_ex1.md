@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 3D Shaper Tutorial Exercise 1a and 1b [Solutions]
-file: /media/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/bd28013453cfa9cbe10b23f1a354c632_3dshaper_ex1.pdf
+file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/bd28013453cfa9cbe10b23f1a354c632_3dshaper_ex1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: 3dshaper_ex1.pdf
 uid: bd280134-53cf-a9cb-e10b-23f1a354c632
 ---
+3D Shaper Tutorial Exercise 1a and 1b [Solutions]
+
