@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 41801303-15ad-c6e1-c585-a61fbe10a10a
 ---
@@ -22,7 +26,7 @@ Files
 Assignment A
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignmenta))
+({{% resource_link b5e59045-1fd9-384a-a566-3d85607a8d60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Assignment A
 Assignment B
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignmentb))
+({{% resource_link fbe304e8-4e17-5917-4238-1227a8dc8137 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Assignment B
 Design Problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/designprob-1))
+({{% resource_link a291355d-c42c-1d93-ff32-ce1bcd356d99 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Design Problem
 Pin Up 1 Directions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pinup1_directions))
+({{% resource_link 7ef2ee54-4303-3619-a5fb-b2bba67735bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Pin Up 1 Directions
 Assignment C
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assignment2directions))
+({{% resource_link daf2f1b6-5dc0-34fd-357c-c4fc3a03d316 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Assignment C
 Pin Up 2 Directions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pinup2_directions))
+({{% resource_link dba6a770-6a53-9ac3-de90-acc4982d3cf3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a1a7ab55-2193-29d0-9a7d-0bfea6e47ea6
 ---
@@ -25,7 +28,7 @@ Assignments
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Design Problem ([PDF]({{< baseurl >}}/resources/designprob))
+Design Problem ({{% resource_link 9c05d0b0-2eac-45d7-aa9d-05f2e954aef4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Read Terry Knight's [online paper](http://www.mit.edu/~tknight/IJDC/)
@@ -100,7 +103,7 @@ Upload work in progress to Archnet
 Developing Housing Units, Consultation with overseas partners using Netmeeting
 {{< tdclose >}}
 {{< tdopen >}}
-Upload work in progress to Archnet, Fill in Miranda's Shaper 2D Survey ([PDF]({{< baseurl >}}/resources/mitmyushaper2d))
+Upload work in progress to Archnet, Fill in Miranda's Shaper 2D Survey ({{% resource_link 89249725-6725-7b61-797c-1a8187afc158 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
