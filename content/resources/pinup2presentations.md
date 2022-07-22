@@ -5,6 +5,7 @@ file: /courses/4-184-architectural-design-workshops-computational-design-for-hou
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pinup2presentations.pdf
 uid: f163515a-d305-77fa-1a26-049dd4d5f782
 ---
 Pin Up 2 Presentations
-

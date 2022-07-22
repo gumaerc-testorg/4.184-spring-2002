@@ -4,6 +4,7 @@ description: DESIGN PROBLEM
 file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/9c05d0b02eac45d7aa9d05f2e954aef4_designprob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: designprob.pdf
 uid: 9c05d0b0-2eac-45d7-aa9d-05f2e954aef4
 ---
 DESIGN PROBLEM
-

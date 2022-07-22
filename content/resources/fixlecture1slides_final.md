@@ -5,6 +5,7 @@ file: /courses/4-184-architectural-design-workshops-computational-design-for-hou
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fixlecture1slides_final.pdf
 uid: 33f46f54-3f39-762e-e59d-f07051becb92
 ---
 What is computation? [Lecture slides]
-

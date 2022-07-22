@@ -5,6 +5,7 @@ file: /courses/4-184-architectural-design-workshops-computational-design-for-hou
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment2directions.pdf
 uid: daf2f1b6-5dc0-34fd-357c-c4fc3a03d316
 ---
 Shape grammars for the 3D study of townhouse clusters
-

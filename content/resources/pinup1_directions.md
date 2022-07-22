@@ -5,6 +5,7 @@ file: /courses/4-184-architectural-design-workshops-computational-design-for-hou
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pinup1_directions.pdf
 uid: 7ef2ee54-4303-3619-a5fb-b2bba67735bc
 ---
 PIN UP 1: Site Plan Study
-
