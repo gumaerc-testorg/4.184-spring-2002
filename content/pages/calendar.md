@@ -31,7 +31,7 @@ Assignments
 Design Problem ({{% resource_link 9c05d0b0-2eac-45d7-aa9d-05f2e954aef4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Read Terry Knight's [online paper](http://www.mit.edu/~tknight/IJDC/)
+Read Terry Knight's {{% resource_link "be7063ca-40c2-4687-aaa9-ce83cfb451ed" "online paper" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
