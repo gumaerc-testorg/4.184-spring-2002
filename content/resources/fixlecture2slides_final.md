@@ -2,6 +2,7 @@
 content_type: resource
 description: Stages of shape grammar development [Lecture slides]
 file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/94b7e1a4fce10c921de677700dc56876_fixlecture2slides_final.pdf
+file_size: 429606
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
