@@ -2,6 +2,7 @@
 content_type: resource
 description: 3D Shaper Tutorial Exercise 3 [Solutions]
 file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/b1f44ff797a41c165600ee87752537f9_3dshaper_ex3.pdf
+file_size: 85491
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

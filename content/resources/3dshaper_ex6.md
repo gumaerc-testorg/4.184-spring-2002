@@ -2,6 +2,7 @@
 content_type: resource
 description: 3D Shaper Tutorial Exercise 6a, 6b, 6c, 6d, 6e, 6f, 6g [Solutions]
 file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/dd16449e0ead5b6c2551d1ce28f9027b_3dshaper_ex6.pdf
+file_size: 149395
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
