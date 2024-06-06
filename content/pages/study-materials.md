@@ -7,7 +7,7 @@ title: Study Materials
 uid: fd8bdfe6-41b9-6841-388b-5be12a75e1ce
 ---
 
-**Shaper 2D Applet** ({{% resource_link "d6b5ae04-019b-43fc-940b-ad8fde1563bf" "PDF" %}})
+**Shaper 2D Applet** ([PDF](http://www.designmasala.com/miri/resume/docs/dcc04_paper.pdf))
 
 **Derivations Examples** ({{% resource_link 64b34d35-9461-278e-c367-181f930075fe "PDF" %}})
 
