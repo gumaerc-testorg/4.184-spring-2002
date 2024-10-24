@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Autogrammar tutorial
-file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/4d7f1d17797ecc45bf8672253426d0f6_autogrammar2.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/4d7f1d17797ecc45bf8672253426d0f6_autogrammar2.pdf
 file_size: 382233
 file_type: application/pdf
 learning_resource_types: []

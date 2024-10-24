@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2D Shaper Tutorial
-file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fd35f8b89b3964aafd32fa7fadd622af_shaper2dtutorial.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fd35f8b89b3964aafd32fa7fadd622af_shaper2dtutorial.pdf
 file_size: 234389
 file_type: application/pdf
 learning_resource_types: []

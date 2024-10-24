@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 3D Shaper Tutorial
-file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/08f6f2a93b9e3e8ad8250001b3b3b821_3dshaper.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/08f6f2a93b9e3e8ad8250001b3b3b821_3dshaper.pdf
 file_size: 234389
 file_type: application/pdf
 learning_resource_types: []
