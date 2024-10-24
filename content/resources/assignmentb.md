@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource contains assignment on grammar.
-file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fbe304e84e17591742381227a8dc8137_AssignmentB.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/fbe304e84e17591742381227a8dc8137_AssignmentB.pdf
 file_size: 2737
 file_type: application/pdf
 learning_resource_types:
