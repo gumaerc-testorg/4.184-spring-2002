@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: What is computation? [Lecture slides]
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/33f46f543f39762ee59df07051becb92_fixlecture1slides_final.pdf
+file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/33f46f543f39762ee59df07051becb92_fixlecture1slides_final.pdf
 file_size: 802857
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: DESIGN PROBLEM
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/9c05d0b02eac45d7aa9d05f2e954aef4_designprob.pdf
+file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/9c05d0b02eac45d7aa9d05f2e954aef4_designprob.pdf
 file_size: 59843
 file_type: application/pdf
 learning_resource_types: []
