@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MIT Shaper2D Survey (Part 1)
-file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/8924972567257b61797c1a8187afc158_mitmyushaper2d.pdf
+file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/8924972567257b61797c1a8187afc158_mitmyushaper2d.pdf
 file_size: 140370
 file_type: application/pdf
 learning_resource_types: []
