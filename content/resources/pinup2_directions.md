@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PIN UP 2: Clusters Study'
-file: /courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/dba6a7706a539ac3de90acc4982d3cf3_pinup2_directions.pdf
+file: /ol-ocw-studio-app/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/dba6a7706a539ac3de90acc4982d3cf3_pinup2_directions.pdf
 file_size: 33030
 file_type: application/pdf
 learning_resource_types:
