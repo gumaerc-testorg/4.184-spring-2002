@@ -7,7 +7,7 @@ ocw_type: CourseSection
 title: Study Materials
 uid: fd8bdfe6-41b9-6841-388b-5be12a75e1ce
 ---
-**Shaper 2D Applet** ([PDF](https://papers.cumincad.org/data/works/att/f542.content.pdf))
+**Shaper 2D Applet** ({{% resource_link "71eeea9c-bd5a-4549-979e-c62875ccba26" "PDF" %}})
 
 **Derivations Examples** ({{% resource_link "64b34d35-9461-278e-c367-181f930075fe" "PDF" %}})
 
